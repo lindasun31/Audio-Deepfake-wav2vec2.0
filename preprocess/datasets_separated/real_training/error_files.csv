@@ -1,0 +1,3 @@
+,file name,file path,reason for error
+0,file11064.wav_16k.wav_norm.wav_mono.wav_silence.wav,d:\kuliah\mbkm research\ai voice detector\preprocess\dataset\for-norm\training\real\file11064.wav_16k.wav_norm.wav_mono.wav_silence.wav,Failed to decode audio.
+1,file15440.wav_16k.wav_norm.wav_mono.wav_silence.wav,d:\kuliah\mbkm research\ai voice detector\preprocess\dataset\for-norm\training\real\file15440.wav_16k.wav_norm.wav_mono.wav_silence.wav,Failed to decode audio.
