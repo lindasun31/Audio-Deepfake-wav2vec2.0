@@ -1,0 +1,17 @@
+# Ignore datasets
+preprocess/datasets/
+preprocess/checkpoint/
+preprocess/clean_se_clean_cleannya/
+*.wav
+*.mp3
+
+# Ignore model weights
+models/
+*.pt
+*.bin
+*.h5
+
+# Ignore Python environments
+venv/
+.env/
+__pycache__/
